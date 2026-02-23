@@ -11,3 +11,6 @@ La herencia es un pilar fundamental de la pogramacion orientada a objetos que pe
 
 ## Evidencia de ejecucion
 Se puede observar el resultado al clonar el repositorio de Github e insertarlo en la carpeta htdocs de XAMPP, seguido de ello ingresar a localhost/Parcial-1-poo/Practica-2/ para ver el resultado.
+
+**Link del repositorio Github**
+'''bash git clone https://github.com/brualexiscv11/desarrollo-web-avanzado-fimaz-uas/tree/6058b316b1b2e8e7fdbbd30584f59f20f3f0c8c0/Parcial-1-poo/Practica-2
