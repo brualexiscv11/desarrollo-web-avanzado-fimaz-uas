@@ -31,7 +31,7 @@ La clase "Usuario" demuestra los principios fundamentales de POO.
 
 1.- **Clonar el repositorio**
     '''bash
-    git clone https://github.com/brualexiscv11/Practica-1.git
+    git clone https://github.com/brualexiscv11/desarrollo-web-avanzado-fimaz-uas/tree/634052c46c5c7f766af9f233a095da4370aefe34/Parcial-1-poo/Practica-1
 
 2.- **Meter en el repositorio en la carpeta htdocs de XAMPP**
 
