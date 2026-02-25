@@ -9,6 +9,11 @@ La herencia es un pilar fundamental de la pogramacion orientada a objetos que pe
 - **Clase base (padre)**: "Usuario" - Contiene atributos y metodos genericos.
 - **Clase derivada (hija)**: "Admin" - Extiende de Usuario y añade funcionalidad especifica
 
+## Requisitos
+- PHP 8 o superior
+- XAMPP (o cualquier servidor local con soporte para PHP)
+- Git + GitHub/GitLab
+
 ## Evidencia de ejecucion
 Se puede observar el resultado al clonar el repositorio de Github e insertarlo en la carpeta htdocs de XAMPP, seguido de ello ingresar a localhost/Parcial-1-poo/Practica-2/ para ver el resultado.
 
