@@ -14,4 +14,4 @@ Construir un mini-sistema POO en PHP que simula un examen parcial, integrando en
 Se puede observar el resultado al clonar el repositorio de Github e insertarlo en la carpeta htdocs de XAMPP, seguido de ello ingresar a localhost/Parcial-1-poo/Practica-4/ para ver el resultado.
 
 **Link del repositorio Github**
-'''bash git clone 
+'''bash git clone https://github.com/brualexiscv11/desarrollo-web-avanzado-fimaz-uas/tree/4f0b64c74341c2f7f08164af4c10ff737ed158b3/Parcial-1-poo/Practica-4
